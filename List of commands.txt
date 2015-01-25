@@ -1,0 +1,33 @@
+List of commands:
+1. spell
+2. factor
+3. cat
+4. seq
+5. uname -n
+6. diff file1.txt file2.txt
+7. dc
+8. du
+9. df
+10. du -h
+11. tty
+12. who -H
+13. aspell -c file1.txt
+14. wheris
+15. lpinfo
+16. znew
+17. iw
+18. chown
+19. enable
+20. last
+21. sort
+22. unexpand
+23. sync
+24. ifconfig
+25. who -b
+26. who -d
+27. init
+28. head
+29. tail'
+30. top
+31. free -m
+32. jobs
